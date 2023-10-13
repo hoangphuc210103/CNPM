@@ -1,2 +1,2 @@
 # CNPM
-Đánh ờ LMHT lên Cao Thủ
+Đánh cờ LMHT lên Cao Thủ
